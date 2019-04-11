@@ -1,4 +1,4 @@
-# steganography using ICMPv6
+# steganography using ICMPv6 PYTHON
 Usando el protocolo ICMP se crea un canal oculto encriptado. Versión basica
 ## Instrucciones de uso para programa receptor
 python recvricmpccipv6.py "claveprecomparti"
